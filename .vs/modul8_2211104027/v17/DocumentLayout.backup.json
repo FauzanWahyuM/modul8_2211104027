@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{C79E96B7-A4AE-43CF-9D0A-8C55B6775A92}|modul8_2211104027\\modul8_2211104027.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\modul8_2211104027\\modul8_2211104027\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C79E96B7-A4AE-43CF-9D0A-8C55B6775A92}|modul8_2211104027\\modul8_2211104027.csproj|solutionrelative:modul8_2211104027\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79E96B7-A4AE-43CF-9D0A-8C55B6775A92}|modul8_2211104027\\modul8_2211104027.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\modul8_2211104027\\modul8_2211104027\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79E96B7-A4AE-43CF-9D0A-8C55B6775A92}|modul8_2211104027\\modul8_2211104027.csproj|solutionrelative:modul8_2211104027\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79E96B7-A4AE-43CF-9D0A-8C55B6775A92}|modul8_2211104027\\modul8_2211104027.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\modul8_2211104027\\modul8_2211104027\\bank_transfer_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C79E96B7-A4AE-43CF-9D0A-8C55B6775A92}|modul8_2211104027\\modul8_2211104027.csproj|solutionrelative:modul8_2211104027\\bank_transfer_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bank_transfer_config.json",
+              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\modul8_2211104027\\modul8_2211104027\\bank_transfer_config.json",
+              "RelativeDocumentMoniker": "modul8_2211104027\\bank_transfer_config.json",
+              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\modul8_2211104027\\modul8_2211104027\\bank_transfer_config.json",
+              "RelativeToolTip": "modul8_2211104027\\bank_transfer_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T11:01:56.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankTransferConfig.cs",
+              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\modul8_2211104027\\modul8_2211104027\\BankTransferConfig.cs",
+              "RelativeDocumentMoniker": "modul8_2211104027\\BankTransferConfig.cs",
+              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\modul8_2211104027\\modul8_2211104027\\BankTransferConfig.cs",
+              "RelativeToolTip": "modul8_2211104027\\BankTransferConfig.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwFoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:56:59.459Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "modul8_2211104027\\Program.cs",
               "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\modul8_2211104027\\modul8_2211104027\\Program.cs",
               "RelativeToolTip": "modul8_2211104027\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T10:44:35.842Z",
               "EditorCaption": ""
